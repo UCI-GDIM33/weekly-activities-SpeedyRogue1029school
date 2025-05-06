@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1342678977489773632
+--- !u!114 &-5030700203580450949
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: default
+  m_Name: Red
   m_Shader: {fileID: -6465566751694194690, guid: 4822c3485d3202849aaa9aa2347eb0a1,
     type: 3}
   m_Parent: {fileID: 0}
@@ -131,8 +131,7 @@ Material:
     - _Blue: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Green: {r: 0, g: 0.44811314, b: 0.004089565, a: 0}
-    - _MyColor: {r: 0.67783517, g: 0.735849, b: 0, a: 0}
+    - _Green: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 0}
     - _Red: {r: 1, g: 0.28617588, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
